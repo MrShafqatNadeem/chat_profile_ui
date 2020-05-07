@@ -4,6 +4,11 @@ A new Flutter application.
 
 ## Getting Started
 
+![](assets/flutter_ui1.jpeg)
+![](assets/flutter_ui3.jpeg)
+![](assets/flutter_ui2.jpeg)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
